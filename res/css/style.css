@@ -37,3 +37,10 @@ header :hover{
 table, th, td {
   border: 1px solid black;
 }
+
+ul > li{
+	padding: 10px;
+	border: 2px solid black;
+	width: 8%;
+}
+
