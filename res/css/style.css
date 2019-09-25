@@ -22,13 +22,13 @@ header :hover {
 }
 
 .rida tr th {
-    border: 1px solid #dddddd;
+    border: 1px solid black;
     text-align: left;
     padding: 8px;
 }
 
 .rida tr td {
-    border: 1px solid #dddddd;
+    border: 1px solid black;
     text-align: left;
     padding: 8px;
 }
